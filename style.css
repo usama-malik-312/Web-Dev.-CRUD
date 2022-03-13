@@ -1,5 +1,5 @@
 body {
-  background-image: url("background.jpg");
+  background-image: url("bg2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -8,7 +8,7 @@ body {
 table {
   width: 80%;
   margin: 40px auto;
-  background: rgb(14, 112, 155);
+  background: rgb(42, 100, 121);
 }
 
 table.list {
